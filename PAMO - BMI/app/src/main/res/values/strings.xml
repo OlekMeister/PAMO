@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMIcalculator</string>
+    <string name="bmi_calculator_title">Calculate Your BMI</string>
+    <string name="daily_calories_title">Daily Calories Intake</string>
+    <string name="recipes_title">Recipes</string>
+    <string name="splash_screen_title">Welcome to BMI Calculator</string>
+    <string name="age_hint">Enter your age</string>
+    <string name="weight_hint">Enter your weight (kg)</string>
+    <string name="height_hint">Enter your height (cm)</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Your result is</string>
+</resources>

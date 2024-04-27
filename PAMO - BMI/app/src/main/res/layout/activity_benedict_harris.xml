@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BenedictHarrisActivity">
+
+    <EditText
+        android:id="@+id/age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/age_hint" />
+
+    <EditText
+        android:id="@+id/weight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/weight_hint" />
+
+    <EditText
+        android:id="@+id/height"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/height_hint" />
+
+    <Spinner
+        android:id="@+id/gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/gender_options" />
+
+    <Button
+        android:id="@+id/calculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate" />
+
+    <TextView
+        android:id="@+id/caloriesResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/result" />
+</RelativeLayout>

@@ -21,6 +21,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SplashActivity"
+        android:exported="true">
+        </activity>
+        <activity android:name=".BenedictHarrisActivity"
+        android:exported="true">
+        </activity>
+        <activity android:name=".RecipesActivity"
+        android:exported="true">
+        </activity>
 
     </application>
 
