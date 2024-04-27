@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         submitButton = findViewById(R.id.btnSubmit);
         resultText = findViewById(R.id.result);
 
-        // Set OnClickListener for the submitButton
+        // Set OnClickListener for the submitButtonadb
         submitButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
