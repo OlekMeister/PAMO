@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_bmi"
+        android:icon="@drawable/ic_bmi"
+        android:title="@string/bmi" />
+    <item
+        android:id="@+id/nav_kcal"
+        android:icon="@drawable/ic_kcal"
+        android:title="@string/kcal" />
+    <item
+        android:id="@+id/nav_recipes"
+        android:icon="@drawable/ic_recipes"
+        android:title="@string/recipes" />
+    <item
+        android:id="@+id/nav_shopping"
+        android:icon="@drawable/ic_shopping_list"
+        android:title="@string/shopping" />
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="home">Home</string>
+    <string name="bmi">BMI</string>
+    <string name="kcal">Calories</string>
+    <string name="recipes">Recipes</string>
+    <string name="shopping">Shopping List</string>
+    <string name="home_text">Witaj w Kalkulatorze BMI!</string>
+</resources>
